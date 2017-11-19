@@ -1,0 +1,6 @@
+.stars span{
+  cursor: pointer;
+}
+.fa-star{
+ color: orangered;
+}
