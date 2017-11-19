@@ -1,1 +1,4 @@
-# Rating_Stars_Javascript
+# Rating Stars Javascript Simple Module
+
+**How to Download
+
